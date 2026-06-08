@@ -27,3 +27,26 @@ Aprendizados:
 - Security Monitoring
 - Linux Troubleshooting
 - Capacity Planning
+
+
+## Wazuh Agent Integration
+
+### Objetivo
+Integrar o Domain Controller ao Wazuh SIEM.
+
+### Atividades
+- Instalação do agente Windows
+- Registro do endpoint DC01
+- Comunicação com o Wazuh Manager
+- Validação da conectividade
+
+### Resultado
+- Endpoint ativo
+- Logs sendo enviados para o SIEM
+
+### Tecnologias
+- Active Directory
+- Windows Server
+- Wazuh Agent
+- Wazuh Manager
+- Linux
