@@ -50,3 +50,13 @@ Integrar o Domain Controller ao Wazuh SIEM.
 - Wazuh Agent
 - Wazuh Manager
 - Linux
+
+
+feat(wazuh): configure Security Configuration Assessment (SCA) for Windows Server 2025
+
+- Deployed Wazuh agent
+- Troubleshot enrollment and connectivity issues
+- Validated FIM and Rootcheck modules
+- Adapted CIS benchmark from Windows Server 2022 to Windows Server 2025
+- Successfully executed SCA scan
+- Collected 359+ security checks
